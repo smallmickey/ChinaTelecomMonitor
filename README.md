@@ -63,6 +63,7 @@ update：
 
 ```
 $ ./China_Telecom_Monitor_amd64 --prot 8081 --dockerProt 9222 --username '电信账号' --password '电信密码'
+(需要在https://e.189.cn网站得到账号和密码 服务密码不可以)
 ```
 
 ### 3.测试访问
