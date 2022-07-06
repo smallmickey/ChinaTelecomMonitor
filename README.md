@@ -157,6 +157,9 @@ Usage of ./China_Telecom_Monitor_amd64:
 ```
 curl http://127.0.0.1:8081/show/detail
 ```
+```
+(这里是内网地址，配合ios组件使用的远程地址是公网地址[http://xxxxx/show/flow])
+```
 
 这些接口主要提供给有二次开发需求的用户使用。接口的数据是从电信的 https://e.189.cn/store/user/package_detail.do 接口获取而来，没有进行数据二次处理，完全是原始数据输出。[#4](https://github.com/LambdaExpression/ChinaTelecomMonitor/issues/4)
 
