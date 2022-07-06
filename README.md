@@ -65,6 +65,7 @@ update：
 $ ./China_Telecom_Monitor_amd64 --prot 8081 --dockerProt 9222 --username '电信账号' --password '电信密码'
 ```
 ```
+该命令是让他在服务器后台运行
 (需要在 https://e.189.cn 网站得到账号和密码 服务密码不可以)
 ```
 
